@@ -5,7 +5,7 @@ body {
 
 h4 {
     display:flex;
-    margin-left:200px;
+    margin-left:450px;
     color: white;
     font-size:24px;
 }
@@ -13,7 +13,6 @@ h4 {
 .top-header {
     display:flex;
     margin-bottom:20px;
-    margin-left:150px;
 }
 
 .header {
@@ -31,6 +30,7 @@ ul {
     list-style: none;
     padding:4px;
     font-size: 18px;
+    margin-left: 425px;
 }
 
 .logo {
@@ -40,30 +40,37 @@ ul {
 }
 
 .box{
-    margin-left:325px;
+    margin-left:450px;
+    margin-bottom:8px;
     gap: 16px;
     color:white;
     width:400px;
 }
 
-span {
-    display:flex;
-    float:right;
-   
-    gap:16px;
+.text {
+    margin-bottom: 16px;
 }
 
 button {
     display:flex;
     align-items: center;
-    border-radius:10%;
+    border-radius:10px;
+    background-color:#3882F6;
+    color:white;
+    width: 100px;
+    justify-content:center;
+    height:30px;
+}
+
+img {
+    margin-left:50px;
 }
 
 h2 {
     display:flex;
     align-items: center;
     justify-content: flex-start;
-    margin-bottom:0px;
+    margin-top:8px;
 }
 
 
