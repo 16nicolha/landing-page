@@ -7,6 +7,7 @@ h4 {
     display:flex;
     margin-left:200px;
     color: white;
+    font-size:24px;
 }
 
 .top-header {
@@ -18,7 +19,7 @@ h4 {
 .header {
     background-color:#1F2937;
     display:flex;
-    height:300px;
+    height:400px;
     flex-wrap:wrap;
     margin-bottom:200px;
 }
@@ -29,6 +30,7 @@ ul {
     color:white;
     list-style: none;
     padding:4px;
+    font-size: 18px;
 }
 
 .logo {
@@ -41,8 +43,7 @@ ul {
     margin-left:325px;
     gap: 16px;
     color:white;
-    width: 650px;
-    flex-
+    width:400px;
 }
 
 span {
